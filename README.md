@@ -1,2 +1,2 @@
 
-This is A landing Page describing Solar System.
+This is a landing Page describing Solar System.
